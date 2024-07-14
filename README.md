@@ -7,4 +7,4 @@ It will contain a larger collection of games developed as part of a GameDevelopm
 - Adventures of Kroz
 - Super Mashdash Browsers (Game for the Marriage of C.B.)
 - Various demos from the tutorial class
-  
+
